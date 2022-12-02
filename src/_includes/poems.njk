@@ -1,0 +1,14 @@
+---
+layout: base.njk
+---
+
+<div class="poem">
+    {{ content | safe }}
+</div>
+
+
+{% set randomPost = collections.poems | getRandom %}
+
+<div id='random'>
+<a href="{{randomPost.url}}">Sing, Muse!</a>
+</div>
