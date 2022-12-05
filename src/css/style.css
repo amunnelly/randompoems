@@ -1,26 +1,31 @@
 .navbar{
-    display: flex;
+    display: block;
     margin: auto;
     font: 2rem "Bodoni 72", serif;
+    text-align: center;
     background-color: lightseagreen;
     color: white;
-    text-align: center;
+    height: fit-content;
 }
 
 .subnav{
-    display: inline;
+    float: left;
+}
+
+.title{
+    color: white;
 }
 
 .poet{
-    font-size: 1rem;
-    display: block;
+    font-size: 1.5rem;
+    float: right;
     text-align: right;
     padding-right: 1rem;
 }
 
 .poem{
     margin-left: 3rem;
-    font: 1.5em "Garamond", serif;
+    font: 1rem "Verdana", san-serif;
 }
 
 .poem > p {
@@ -48,7 +53,7 @@ li > a:hover, a:visited, a:active {
     font: 3em "Bodoni 72", serif;
 }
 
-#random > a:link, a:visited {
+#random > a:link {
     background-color: white;
     color: lightseagreen;
     border: 2px solid lightseagreen;
