@@ -14,4 +14,3 @@ poet: " "
 <a href="{{randomPost.url}}">Sing, Muse!</a>
 </div>
 
-
