@@ -4,10 +4,6 @@ title: Poems!
 poet: " "
 ---
 
-{% for poem in collections.poems %}
- - [{{ poem.data.title }}]({{ poem.url }})
-{%- endfor %}
-
 {% assign randomPost = collections.poems | getRandom %}
 
 <div id='random'>
