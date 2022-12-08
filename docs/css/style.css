@@ -49,7 +49,7 @@ li > a {
     text-decoration: none;
 }
 
-li > a:hover, a:visited, a:active {
+li > a:hover, a:active {
     text-decoration: underline;
 }
 
