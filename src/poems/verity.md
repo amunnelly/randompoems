@@ -15,7 +15,7 @@ You recollect how foolish are the wise.
 
 On this great ground more marvellous than Lord's
 
-- Time takes more spin than nineteen thirty four -
+\- Time takes more spin than nineteen thirty four -
 
 You face at last that vast that Bradman-shaming
 
