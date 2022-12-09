@@ -30,8 +30,8 @@
 
 
 .poem{
-    margin-left: 3rem;
-    font: 1rem "Verdana", san-serif;
+    margin-left: 2rem;
+    font: 1rem "Georgia", "Garamond", serif;
 }
 
 .poem > p {
