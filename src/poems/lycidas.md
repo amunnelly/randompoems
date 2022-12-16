@@ -39,3 +39,8 @@ Set off to th'world, nor in broad rumour lies,
 
 But lives and spreads aloft by those pure eyes
 
+And perfect witness of all-judging Jove;
+
+As he pronounces lastly on each deed,
+
+Of so much fame in Heav'n expect thy meed."
