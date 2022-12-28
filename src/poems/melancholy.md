@@ -23,7 +23,7 @@ For shade to shade will come too drowsily,
 
 And drown the wakeful anguish of the soul.
 
-
+<br/><br/>
 
 But when the melancholy fit shall fall
 
@@ -45,7 +45,7 @@ Emprison her soft hand, and let her rave,
 
 And feed deep, deep upon her peerless eyes.
 
-
+<br/><br/>
 
 She dwells with Beauty — Beauty that must die;
 
