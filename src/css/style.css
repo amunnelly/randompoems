@@ -35,7 +35,7 @@
 }
 
 .poem > p {
-    color: #662300;
+    color: #292525;
     margin: 0.25rem 0;
 }
 ul{
@@ -49,7 +49,7 @@ li > a {
     text-decoration: none;
 }
 
-li > a:hover, a:visited, a:active {
+li > a:hover {
     text-decoration: underline;
 }
 
@@ -69,7 +69,7 @@ li > a:hover, a:visited, a:active {
     display: inline-block;
   }
   
-  #random > a:hover, a:active {
+  #random > a:hover {
     background-color: lightseagreen;
     color: white;
   }

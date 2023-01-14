@@ -19,7 +19,11 @@
   </div>
 </nav>
 <div class="poet">
+  {% if poet %}
     {{ poet }}
+  {% else %}
+  &nbsp;
+  {% endif %}
 </div>
 <body>
 
