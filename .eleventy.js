@@ -3,6 +3,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/css");
     eleventyConfig.addWatchTarget("./src/css/");
 
+    eleventyConfig.addPassthroughCopy("./src/fav");
+
     eleventyConfig.addFilter("getRandom", function (items) {
         let indexer = Math.floor(Math.random() * items.length);
         let selected = items[indexer];
