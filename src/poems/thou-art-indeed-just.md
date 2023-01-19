@@ -2,10 +2,13 @@
 layout: poems
 title: Thou Art Indeed Just, Lord
 poet: Gerald Manley Hopkins
+published: 1889
 ---
 *Justus quidem tu es, Domine, si disputem tecum; verumtamen*
 
 *justa loquar ad te: Quare via impiorum prosperatur? &c.*
+
+<br/>
 
 Thou art indeed just, Lord, if I contend
 

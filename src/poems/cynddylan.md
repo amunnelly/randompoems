@@ -2,6 +2,7 @@
 layout: poems
 title: Cynddylan on a Tractor
 poet: RS Thomas
+published: 1952
 ---
 Ah, you should see Cynddylan on a tractor.
 

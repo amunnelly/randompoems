@@ -2,7 +2,7 @@
 layout: poems
 title: "Sonnet LXVI: Tired with All These"
 poet: William Shakespeare
-poemIndex: 3
+published: 1609
 ---
 
 Tired with all these, for restful death I cry,

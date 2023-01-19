@@ -2,6 +2,7 @@
 layout: poems
 title: Requiem for the Croppies
 poet: Séamus Heaney
+published: 1969
 ---
 The pockets of our greatcoats full of barley...
 

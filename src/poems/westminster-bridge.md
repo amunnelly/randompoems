@@ -2,7 +2,7 @@
 layout: poems
 title: Composed upon Westminster Bridge, September 3, 1802 
 poet: William Wordsworth
-poemIndex: 5
+published: 1802
 ---
 Earth has not anything to show more fair:
 

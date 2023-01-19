@@ -2,6 +2,7 @@
 layout: poems
 title: No Second Troy
 poet: WB Yeats
+published: 1916
 ---
 Why should I blame her that she filled my days
 

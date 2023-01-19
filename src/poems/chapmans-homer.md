@@ -2,6 +2,7 @@
 layout: poems
 title: On First Looking Into Chapman's Homer
 poet: John Keats
+published: 1816
 ---
 Much have I travell'd in the realms of gold,
 

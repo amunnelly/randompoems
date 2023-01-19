@@ -2,6 +2,7 @@
 layout: poems
 title: Prologue to Romeo and Juliet
 poet: William Shakespeare
+published: 1597
 ---
 Two households, both alike in dignity,
 

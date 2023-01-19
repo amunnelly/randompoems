@@ -2,6 +2,7 @@
 layout: poems
 title: Epic
 poet: Patrick Kavanagh
+published: 1960
 ---
 I have lived in important places, times
 

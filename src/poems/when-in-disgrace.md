@@ -2,7 +2,7 @@
 layout: poems
 title: "Sonnet XXIX: When in Disgrace with Fortune"
 poet: William Shakespeare
-poemIndex: 2
+published: 1609
 ---
 
 When in disgrace with fortune and men's eyes,

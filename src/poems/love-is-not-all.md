@@ -2,6 +2,7 @@
 layout: poems
 title: "Sonnet XXX: Love Is Not All"
 poet: Enda St Vincent Millay
+published: 1931
 ---
 Love is not all: it is not meat nor drink
 

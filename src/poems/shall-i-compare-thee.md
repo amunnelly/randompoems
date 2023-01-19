@@ -2,7 +2,7 @@
 layout: poems
 title: "Sonnet XVIII: Shall I Compare Thee"
 poet: William Shakespeare
-poemIndex: 1
+published: 1609
 ---
 Shall I compare thee to a summer’s day?
 

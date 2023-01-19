@@ -2,6 +2,7 @@
 layout: poems
 title: Batter My Heart
 poet: John Donne
+published: 1633
 ---
 Batter my heart, three-person'd God, for you
 

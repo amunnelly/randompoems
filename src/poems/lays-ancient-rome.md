@@ -2,6 +2,7 @@
 layout: poems
 title: "Lays of Ancient Rome: Canto XXVII"
 poet: Thomas Babbington Macauley
+published: 1842
 ---
 Then out spake brave Horatius,
 

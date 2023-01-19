@@ -2,7 +2,7 @@
 layout: poems
 title: Ozymandias
 poet: Percy Bysshe Shelley
-poemIndex: 4
+published: 1818
 ---
 I met a traveller from an antique land,
 

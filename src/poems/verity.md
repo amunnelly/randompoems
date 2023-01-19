@@ -2,6 +2,7 @@
 layout: poems
 title: Verity
 poet: Drummond Allison
+published: 1944
 ---
 The ruth and truth you taught have come full-circle
 

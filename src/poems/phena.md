@@ -2,6 +2,7 @@
 layout: poems
 title: Thoughts of Phena
 poet: Thomas Hardy
+published: 1898
 ---
 <br/><br/>
 at news of her death

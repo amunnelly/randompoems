@@ -2,6 +2,7 @@
 layout: poems
 title: Lycidas, ll 64-84.
 poet: John Milton
+published: 1637
 ---
 Alas! what boots it with incessant care
 
