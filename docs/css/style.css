@@ -1,0 +1,75 @@
+.navbar{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    font: 2rem "Bodoni 72", serif;
+    background-color: lightseagreen;
+    color: white;
+    height: fit-content;
+}
+
+.subnav{
+  width: 10vw;
+  float: left;
+}
+
+.title{
+    font: 3rem "Bodoni 72", serif;
+  width: 90vw;
+    color: white;
+}
+
+.poet{
+    font-size: 1.5rem;
+    text-align: right;
+    padding-right: 1rem;
+    background-color: lightseagreen;
+    color: white;
+    height: fit-content;
+}
+
+
+.poem{
+    margin-left: 2rem;
+    font: 1.5rem "Georgia", "Garamond", serif;
+}
+
+.poem > p {
+    color: #292525;
+    margin: 0.25rem 0;
+}
+ul{
+    font-size: x-large;
+    list-style-type: none;
+    text-decoration: none;
+    line-height: 3rem;
+}
+
+li > a {
+    text-decoration: none;
+}
+
+li > a:hover {
+    text-decoration: underline;
+}
+
+#random{
+    text-align: center;
+    font: 3em "Bodoni 72", serif;
+}
+
+#random > a:link {
+    background-color: white;
+    color: lightseagreen;
+    border: 2px solid lightseagreen;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  #random > a:hover {
+    background-color: lightseagreen;
+    color: white;
+  }
