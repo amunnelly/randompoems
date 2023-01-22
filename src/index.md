@@ -4,15 +4,11 @@ title: Poems!
 poet: " "
 ---
 
-{% poems = collections.poems | reverse %}
+{% assign poems = collections.poems | reverse %}
 
 {% for poem in poems %}
  - [{{ poem.data.title }}]({{ poem.url }})
  
- {{ poem.data.published }}
- 
- {{ poem.date }}
-
 {%- endfor %}
 
 {% assign randomPost = collections.poems | getRandom %}
