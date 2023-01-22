@@ -1,6 +1,4 @@
 .DS_Store
 **/node_modules/**
-public/
-.vscode
-gh-pag*
 docs
+.vscode
