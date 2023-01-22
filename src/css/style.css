@@ -34,6 +34,13 @@
     font: 1.5rem "Georgia", "Garamond", serif;
 }
 
+@media screen and (max-width=400px) {
+    .poem{
+        margin-left: 1rem;
+        font: 0.75rem "Georgia", "Garamond", serif;
+    }
+    }
+
 .poem > p {
     color: #292525;
     margin: 0.25rem 0;
