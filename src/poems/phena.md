@@ -4,10 +4,10 @@ title: Thoughts of Phena
 poet: Thomas Hardy
 published: 1898
 ---
-<br/><br/>
+<br/>
 at news of her death
 
-<br/><br/>
+<br/>
 
 Not a line of her writing have I
 
@@ -25,7 +25,7 @@ At her close, whom I knew when her dreams were upbrimming with light
 
 And with laughter her eyes.
 
-<br/><br/>
+<br/>
 
 What scenes spread around her last days,
 
@@ -43,7 +43,7 @@ Her full day-star; unease, or regret, or forebodings, or fears
 
 Disennoble her soul?
 
-<br/><br/>
+<br/>
 
 Thus I do but the phantom retain
 

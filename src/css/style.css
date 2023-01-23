@@ -30,21 +30,29 @@
 
 
 .poem{
-    margin-left: 2rem;
+    margin-left: 5vw;
     font: 1.5rem "Georgia", "Garamond", serif;
-}
-
-@media screen and (max-width=400px) {
-    .poem{
-        margin-left: 1rem;
-        font: 0.75rem "Georgia", "Garamond", serif;
-    }
-    }
-
-.poem > p {
     color: #292525;
-    margin: 0.25rem 0;
 }
+
+@media screen and (max-width: 400px) {
+    .poem{
+        margin-left: 2vw;
+        font: 1.0rem "Georgia", "Garamond", serif;
+    }
+
+    .title{
+        font: 2rem "Bodoni 72", serif;
+      width: 90vw;
+        color: white;
+    }
+
+    .poet{
+        font-size: 0.75rem;
+    }
+    
+    }
+
 ul{
     font-size: x-large;
     list-style-type: none;
