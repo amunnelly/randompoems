@@ -33,12 +33,15 @@
     margin-left: 5vw;
     font: 1.5rem "Georgia", "Garamond", serif;
     color: #292525;
+    line-height: 1rem;
 }
+
 
 @media screen and (max-width: 400px) {
     .poem{
         margin-left: 2vw;
         font: 1.0rem "Georgia", "Garamond", serif;
+        line-height: 0.75rem;
     }
 
     .title{
