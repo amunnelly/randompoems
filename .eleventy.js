@@ -1,3 +1,5 @@
+const socialImages = require("@11tyrocks/eleventy-plugin-social-images");
+
 module.exports = function (eleventyConfig) {
 
     function sortByPubDate(values) {
@@ -18,6 +20,9 @@ module.exports = function (eleventyConfig) {
         delete indexer; // the random numbers were being cached; this should stop that.
         return selected;
     });
+
+    eleventyConfig.addPlugin(socialImages);
+
 
     return {
         dir: {
