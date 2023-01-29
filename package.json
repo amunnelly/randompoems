@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "social-images": "eleventy-social-images --siteName 'Poems!'",
     "start": "eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "eleventy ; npm run social-images"
   },
-  "keywords": [],
+    "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
