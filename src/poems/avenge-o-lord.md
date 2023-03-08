@@ -10,7 +10,7 @@ Lie scattered on the Alpine mountains cold,
 
 Even them who kept thy truth so pure of old,
 
-When all our fathers worshiped stocks and stones;
+When all our fathers worshipt stocks and stones;
 
 Forget not: in thy book record their groans
 
