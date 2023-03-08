@@ -3,8 +3,8 @@ const socialImages = require("@11tyrocks/eleventy-plugin-social-images");
 module.exports = function (eleventyConfig) {
 
     function sortByPubDate(values) {
-        let vals = values;
-        return vals.sort((a, b) => {a.data.published - b.data.published});
+        let vals = [...values];
+        return vals.sort((a, b) => Math.sign(a.data.published - b.data.published));
     }
 
     eleventyConfig.addPassthroughCopy("./src/css");

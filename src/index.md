@@ -4,9 +4,9 @@ title: Poems!
 poet: " "
 ---
 
-{% assign poems = collections.poems | reverse %}
+{% assign pomes = collections.poems | sortByPubDate %}
 
-{% for poem in poems %}
+{%- for poem in pomes %}
  - [{{ poem.data.title }}]({{ poem.url }})
  
 {%- endfor %}
