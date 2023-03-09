@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "social-images": "eleventy-social-images --siteName 'Poems!'",
     "start": "eleventy --serve",
     "build": "eleventy ; npm run social-images"
   },
